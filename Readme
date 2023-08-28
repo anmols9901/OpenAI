@@ -1,0 +1,4 @@
+The notebook given takes an article as input
+Generates questions from the text such that all the content is covered within the answer of these questions
+Divide the questions into batches of n, where is taken as input from user
+Answers are generated for the questions with the reference of 
